@@ -1,0 +1,1281 @@
+[
+    {
+        "q": "The femoral sheath:",
+        "o": [
+            "Its anterior wall is formed by the iliac fascia.",
+            "Its intermediate compartment contains the femoral vein.",
+            "Encloses the femoral nerve. d-lies on the iliacus muscle.",
+            "encloses the lateral cutaneous nerve of the thigh."
+        ],
+        "a": 1,
+        "e": "The femoral vein lies within the intermediate compartment of the femoral sheath.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Paralysis of the following nerves leads to:",
+        "o": [
+            "Superficial peroneal : foot-drop.",
+            "Inferior gluteal : loss of abduction at the hip joint.",
+            "Femoral : weakened hip extension.",
+            "Tibial : marked weakness of dorsiflexion at the ankle joint.",
+            "Lateral plantar : hammer toe."
+        ],
+        "a": 4,
+        "e": "Only the lateral plantar nerve injury can cause hammer/claw toe deformity because it supplies the  interossei and lumbrical muscles.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The arterial anastomosis around the knee joint is formed mainly by branches from all the following arteries ; except:",
+        "o": [
+            "Femoral .",
+            "anterior tibial.",
+            "Lateral circumflex femoral.",
+            "Medial circumflex femoral.",
+            "Popliteal."
+        ],
+        "a": 3,
+        "e": "The medial circumflex femoral artery does not significantly contribute to the genicular  anastomosis.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The great saphenous vein :",
+        "o": [
+            "Has no valves .",
+            "Passes posterior to the medial malleolus.",
+            "Runs on the postero-medial side of the knee.d-Drains the lateral side of the foot ,ankle and back of the leg.",
+            "Drains into the popliteal vein."
+        ],
+        "a": 2,
+        "e": "The great saphenous vein ascends along the postero-medial side of the knee.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The deep branch of lateral plantar nerve supplies all the following muscles ;except",
+        "o": [
+            "dductor halluces.",
+            "Lateral three lumbrical muscles.",
+            "Medial three dorsal interossei.",
+            "Abductor halluces.",
+            "Medial two plantar interossei."
+        ],
+        "a": 3,
+        "e": "The abductor hallucis is not supplied by the deep branch of the lateral plantar nerve.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The obturator nerve is derived from the spinal nerves:",
+        "o": [
+            "Posterior divisions of L2 L3L4.",
+            "Anterior divisions of L4 L5 S1",
+            "Anterior division of L3 L4 L5.",
+            "Posterior division of L1 L2 L3",
+            "Anterior division of L2 L3 L4."
+        ],
+        "a": 4,
+        "e": "The obturator nerve arises from the anterior divisions of L2–L4.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following structures exit the pelvis via the lesser sciatic Foramen:",
+        "o": [
+            "Superior gluteal artery.",
+            "Obturator internus muscle.",
+            "Posterior femoral cutaneousnerve.",
+            "Sciatic nerve.",
+            "Pudendal nerve."
+        ],
+        "a": 1,
+        "e": "The obturator internus tendon exits through the lesser sciatic foramen.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The arcuate artery is a direct branch of which of the following arteries:",
+        "o": [
+            "Medial plantar.",
+            "Anterior tibial.",
+            "Posterior tibial.",
+            "Lateral plantar. Obturator nerve",
+            "Dorsalis pedis."
+        ],
+        "a": 4,
+        "e": "The dorsalis pedis artery gives rise to the arcuate artery.",
+        "t": "MCQ"
+    },
+    {
+        "q": "An injury to the upper lateral margin of the popliteal fossa is most likely will damage the :",
+        "o": [
+            "Nerve to vastus medialis.",
+            "Common peronealnerve.",
+            "Sciatic nerve.",
+            "Tibial nerve.",
+            "Saphenous nerve."
+        ],
+        "a": 1,
+        "e": "The common peroneal nerve is closely related to the lateral side of the popliteal fossa.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The deep fascia of the thigh:",
+        "o": [
+            "is thickened on its medial side to form the iliotibial tract.",
+            "has an oval opening which transmits the small saphenous vein.",
+            "is attached to the whole length of the inguinal ligament.",
+            "is called the cribriform fascia.",
+            "lies superficial to the superficial inguinal lymph nodes."
+        ],
+        "a": 2,
+        "e": "The fascia lata is attached along the full length of the inguinal ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Structures passing through the adductor hiatus include:",
+        "o": [
+            "saphenous nerve.",
+            "profunda femoris artery.",
+            "medial circumflex femoral artery.",
+            "all of the above",
+            "none of the above."
+        ],
+        "a": 4,
+        "e": "None of the listed structures (saphenous nerve, profunda femoris, medial circumflex femoral)  pass through the adductor hiatus.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which muscle is able to produce flexion at the knee joint more efficiently if the hip joint is at flexion at the same time:",
+        "o": [
+            "semimembranosus.",
+            "rectus femoris.",
+            "hamstring part of adductor magnus.",
+            "sartorius.",
+            "short head of biceps femoris"
+        ],
+        "a": 3,
+        "e": "The sartorius is biomechanically suited to simultaneously flex both the hip and the knee joints  efficiently.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Muscles in the posterior thigh compartment are paralyzed because the sciatic nerve has been severed. Nevertheless the patient can still produce some flexion of the leg at the knee due to the action of:",
+        "o": [
+            "sartorius muscle.",
+            "semitendinosus muscle.",
+            "both a & b d-short head of biceps femoris muscle",
+            "gastrocnemius muscle."
+        ],
+        "a": 0,
+        "e": "The sartorius is not innervated by the sciatic nerve, allowing it to continue flexing the knee if the  sciatic is severed.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The muscle that is not a medial rotator of the leg is:",
+        "o": [
+            "semimembranosus.",
+            "semitendinosus.",
+            "biceps femoris.",
+            "graclis",
+            "popliteus."
+        ],
+        "a": 2,
+        "e": "The biceps femoris functions as a lateral rotator.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which statement is false concerning the knee joint ?",
+        "o": [
+            "it is a ball and socket joint.",
+            "the entire acetabulum articulates with the femoral head.",
+            "the acetabulum is deepened by the acetabular labrum.",
+            "the ligamentum teres is attached to the fovea on the femoral head.",
+            "the iliofemoral ligament is attached to the intertrochanteric line."
+        ],
+        "a": 1,
+        "e": "The acetabular fossa does not articulate with the femoral head.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following muscles is attached to the lesser trochanter of the femur ?",
+        "o": [
+            "iliopsoas.",
+            "pectineus",
+            "quadratus femoris.",
+            "gluteus medius.",
+            "obturator externus."
+        ],
+        "a": 0,
+        "e": "The iliopsoas inserts into the lesser trochanter of the femur.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The major cutaneous innervation of the anteromedial side of the leg is provided by which nerve ?",
+        "o": [
+            "obturator.b-sural.",
+            "superficial peroneal.",
+            "saphenous.",
+            "medial sural."
+        ],
+        "a": 3,
+        "e": "The saphenous nerve supplies sensation to the anteromedial side of the leg.",
+        "t": "MCQ"
+    },
+    {
+        "q": "In the subsartorial canal this muscle separated the profunda femoris artery from the femoral artery:",
+        "o": [
+            "pectieus.",
+            "adductor magnus.",
+            "adductor brevis.",
+            "adductor longus.",
+            "psoas major."
+        ],
+        "a": 3,
+        "e": "The adductor longus separates these arteries within the canal.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The neck of the femoral hernia lies. lateral to:",
+        "o": [
+            "pubic tubercle.",
+            "femoral vein.",
+            "femoral artery.",
+            "femoral nerve.",
+            "femoral sheath."
+        ],
+        "a": 0,
+        "e": "The neck of a femoral hernia is lateral to the pubic tubercle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which statement about the semimembranosus muscle is FALSE?",
+        "o": [
+            "it extends at the hip joint.",
+            "it flexes at the knee joint.",
+            "it attaches to the medial condyle of the tibia.",
+            "it is innervated by the tibial portion of the sciatic nerve.",
+            "it divides the lateral collateral ligament of the knee joint,"
+        ],
+        "a": 4,
+        "e": "The semimembranosus is medial and does not divide the lateral collateral ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Gracilis , sartorius & semitendinosus :",
+        "o": [
+            "attach to the lateral side of the shaft of the tibia.",
+            "act on both hip and knee joints.",
+            "all have the same innervation.",
+            "extend the knee.",
+            "help laterally rotate the leg."
+        ],
+        "a": 1,
+        "e": "All three muscles cross and act on both joints.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The superior gluteal nerve :",
+        "o": [
+            "contains fibers from second lumbar and fourth sacral spinal nerves.",
+            "leaves the pelvis just inferior to the piriformis muscle",
+            "must be intact to resist the pelvic tilt during walking.",
+            "innervates the piriformis muscle.",
+            "innervates the gemellus superior muscle."
+        ],
+        "a": 2,
+        "e": "It supplies gluteus medius and minimus, which stabilize the pelvis during gait.",
+        "t": "MCQ"
+    },
+    {
+        "q": "All of the following muscles sre lateral rotators of the thigh at the hip, EXCEPT the :",
+        "o": [
+            "gluteus maximus. b-obturator internus.",
+            "obturator externus.",
+            "piriformis.",
+            "gluteus minimus."
+        ],
+        "a": 0,
+        "e": "Gluteus minimus is primarily a medial rotator.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The saphenous nerve :",
+        "o": [
+            "is a motor branch of the femoral nerve.",
+            "accompanies the short saphenous vein in the leg.",
+            "is the only branch of the femoral nerve that extends considerably below the knee.",
+            "emerges through the saphenous hiatus.",
+            "is a sensory branch of the obturator nerve."
+        ],
+        "a": 2,
+        "e": "It continues into the leg and foot.",
+        "t": "MCQ"
+    },
+    {
+        "q": "What nerve is damaged in a patient whose foot is everted and dorsiflexed and who can not flex his or her toes:",
+        "o": [
+            "tibial.",
+            "superficial peroneal.c-deep peroneal.",
+            "common peroneal.",
+            "medial peroneal."
+        ],
+        "a": 0,
+        "e": "Tibial nerve injury causes loss of plantarflexion and toe flexion.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which nerve has been damaged in a patient whose pelvis telts down to the left when he stands on his right foot?",
+        "o": [
+            "right inferior gluteal nerve.",
+            "right superior gluteal nerve.",
+            "left inferior gluteal nerve.",
+            "left superior gluteal nerve.",
+            "left obturator nerve."
+        ],
+        "a": 1,
+        "e": "Right hip abductors fail to stabilize the pelvis.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Each of the following statements concerning the tibial nerve is correct; EXCEPT:",
+        "o": [
+            "it is a branch of the sciatic nerve.",
+            "it is motor to all the muscles in the superficial and deep compartments of the posterior compartment of the leg.",
+            "it passes down the leg between the soleus and gastrocnemius muscles.",
+            "it passes posterior to the medial malleolus.",
+            "its terminal branches are the medial and lateral plantar nerves."
+        ],
+        "a": 2,
+        "e": "The tibial nerve runs deep to both muscles.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The femoral hernias :",
+        "o": [
+            "pass downward anterior to the inguinal ligament.",
+            "pass medial to the pubic tubercle.",
+            "emerge superior to the pubic tubercle.",
+            "utilize the lateral compartment of the sheath.",
+            "pass downward posterior and inferior to the injuinal ligament."
+        ],
+        "a": 4,
+        "e": "Femoral hernias pass below and behind the inguinal ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A sharp blow to the neck of fibula is most apt to result in damage to which structure ?",
+        "o": [
+            "sciatic nerve.",
+            "common peroneal nerve.",
+            "tibial nerve.",
+            "popliteal nerve.",
+            "none of the above."
+        ],
+        "a": 1,
+        "e": "The common peroneal nerve winds around the neck of the fibula.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The flexor retinaculum of the foot attaches to which two bony structure ?",
+        "o": [
+            "distal ends of tibia and fibula.",
+            "calcaneus and talus.",
+            "talus and navicular.",
+            "medial malleolus and talus.",
+            "calcaneus and medial malleolus."
+        ],
+        "a": 4,
+        "e": "It extends between these two structures.",
+        "t": "MCQ"
+    },
+    {
+        "q": "In a very young child,the head of the femur usually receives most of its blood supply from a branch of the:",
+        "o": [
+            "external iliac artery.",
+            "femoral artery.",
+            "profunda femoral artery.",
+            "obturator artery.",
+            "pudendal artery."
+        ],
+        "a": 3,
+        "e": "The artery to the head of the femur arises from the obturator artery.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The iliofemoral ligament :",
+        "o": [
+            "attaches to the anterior superior iliac spine",
+            "resists flexion of the hip.",
+            "is the weakest ligament of the hip joint.",
+            "all of the above.e-none of the above,"
+        ],
+        "a": 0,
+        "e": "None of the listed statements accurately describe it.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A torn anterior cruciate ligament would permit:",
+        "o": [
+            "valgus displacement of the leg at the knee.",
+            "varus displacement of the leg at the knee",
+            "anterior displacement of the leg at the knee.",
+            "posterior displacement of the leg at the knee.",
+            "none of the above."
+        ],
+        "a": 2,
+        "e": "The ACL prevents anterior movement of the tibia.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The \"spring\" ligament attaches to what two bomes",
+        "o": [
+            "fibula and calcaneus .",
+            "tibia and calcaneus.",
+            "tibia and talus.",
+            "talus and navicular.",
+            "calcaneus and navicular."
+        ],
+        "a": 4,
+        "e": "It is the plantar calcaneonavicular ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The ligament usually injured in a hyper-inversion of the foot (sprained ankle) is the :",
+        "o": [
+            "anterior tibiotalar.",
+            "posterior tibiotalar.",
+            "lateral collateral.",
+            "long plantar.",
+            "medial collateral."
+        ],
+        "a": 2,
+        "e": "Hyper-inversion injuries commonly damage the lateral collateral ligament complex, especially the  anterior talofibular ligament (ATFL).",
+        "t": "MCQ"
+    },
+    {
+        "q": "The anterior tibial artery :",
+        "o": [
+            "is the source of peroneal artery.",
+            "continues as the dorsalis pedis artery.",
+            "usually travels with the superficial peroneal nerve,",
+            "all of the above. e-none of the above."
+        ],
+        "a": 1,
+        "e": "It becomes the dorsalis pedis artery at the ankle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which muscle is inserted into the tuberosity of the fifth metatarsal bone?",
+        "o": [
+            "abductor digiti minimi.",
+            "peroneus brevis.",
+            "peroneus longus.",
+            "tibialis anterior.",
+            "tibialis posterior."
+        ],
+        "a": 1,
+        "e": "Peroneus brevis inserts into the base of the fifth metatarsal.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which muscle is essential to lift the heel off the ground in walking?",
+        "o": [
+            "peroneus longus.",
+            "tibialis anterior.",
+            "flexor hallucis longus.",
+            "flexor halluces brevis.",
+            "gastrocemius."
+        ],
+        "a": 4,
+        "e": "It provides powerful plantarflexion.",
+        "t": "MCQ"
+    },
+    {
+        "q": "In the knee joint,the fibular collateral ligament is:",
+        "o": [
+            "tested by application of valgus stress,rather than varus stress to the knee joint.",
+            "located superficial to the tendon of popliteus.",
+            "attached to the lateral meniscus.",
+            "located superficial to the biceps femoris tendon.",
+            "located deep to the iliotibial tract."
+        ],
+        "a": 1,
+        "e": "The tendon of popliteus passes deep to the ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which statement concerning ligaments of the hip joint is FALSE?",
+        "o": [
+            "the iliofemoral ligament prevents hyperextension.",
+            "the ligament of the head of the femur is attached to the transvers acetabular ligament .",
+            "the iliofemoral ligament is in the shape of inverted Y .",
+            "the ischiofemoral ligament is attaches to the intertrochanteric crest.",
+            "the transverse acetabular ligament bridges acetabular notch."
+        ],
+        "a": 3,
+        "e": "This attachment is incorrect.",
+        "t": "MCQ"
+    },
+    {
+        "q": "In the knee joint, the medial meniscus :",
+        "o": [
+            "is torn less commonly than the lateral meniscus.",
+            "is nearly circular( O-shaped ).",
+            "is less moveable than the lateral meniscus.",
+            "is seprated from the joint capsule by the tendon of the popliteus muscle.",
+            "is located outside the synovial cavity."
+        ],
+        "a": 2,
+        "e": "It is firmly attached to the medial collateral ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which nerve is endangered during canulation of the great saphenous vein ?",
+        "o": [
+            "lateral sural",
+            "superficial peroneal.",
+            "medial cutaneous nerve of the thigh.",
+            "medial sural.",
+            "saphenous."
+        ],
+        "a": 4,
+        "e": "The saphenous nerve accompanies the great saphenous vein.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A tear in tibialis anterior tendon causes pain during:",
+        "o": [
+            "Inversion",
+            "Eversion",
+            "Plantarflexion",
+            "Dorsiflexion",
+            "All of the above"
+        ],
+        "a": 3,
+        "e": "Tibialis anterior is the primary dorsiflexor.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The sural nerve is located most closely to the:",
+        "o": [
+            "inferior border of the gluteus maximus.",
+            "lateral malleolus",
+            "great saphenous vein.",
+            "neck of the fibula.",
+            "medial side of the patella."
+        ],
+        "a": 1,
+        "e": "It passes behind the lateral malleolus.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Skin sensation and paralysis of nuscles on the plantar of the medial side of the foot .Which of the following nerves is most likely damaged",
+        "o": [
+            "common peroneal.",
+            "tibial.",
+            "superficial peroneal.",
+            "deep peroneal . e-sural."
+        ],
+        "a": 1,
+        "e": "The tibial nerve supplies the plantar foot.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A 20-year-old patient can not flex and medially rotate the thigh while running and climbing. Which of the following muscles is most likely damaged ?",
+        "o": [
+            "semimembanosus.",
+            "sartorius.",
+            "rectus femoris.",
+            "vastus intermedius",
+            "tensor fasciae latae."
+        ],
+        "a": 0,
+        "e": "Semimembranosus flexes and medially rotates the leg.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A 21 year-old man was involved in a motorcycle accident ,resulting in destruction of the groove in the lower surface of the cuboid bone.Which of the following muscle tendons is most likely damaged?",
+        "o": [
+            "flexor hallucis longus.",
+            "peroneus brevis .",
+            "peroneus longus",
+            "tibialis anterior.",
+            "tibialis posterior."
+        ],
+        "a": 2,
+        "e": "Its tendon passes through the cuboid groove.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A constructor worker falls feet first from a roof.He sustains a fracture of the groove on the undersurface of the sustanteculum tali of the calcaneus bone. Which of the following muscle tendon is most likely torn ?",
+        "o": [
+            "flexor digitorum brevis.",
+            "flexor digitorum longus.",
+            "flexor hallucis brevis.",
+            "flexor hallucis longus.",
+            "tibialis posterior."
+        ],
+        "a": 3,
+        "e": "Its tendon runs beneath the sustentaculum tali.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A thoracic surgeon is going to collect a portion of the great saphenous vein for coronary bypass surgery.He has observed that this vein runs ;",
+        "o": [
+            "posterior to the medial malleolus.",
+            "drains into the popliteal vein.",
+            "anterior to the medial condyle of the tibia and femur.",
+            "superficial to the fascia lata of the thigh.",
+            "along the femoral artery."
+        ],
+        "a": 3,
+        "e": "The great saphenous vein is a superficial vein.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The acetabulum of the hip bone is fractured at its posterosuperior margin by dislocation of the hip joint , which of the following bones could be involved ?",
+        "o": [
+            "pubis.",
+            "ischium.",
+            "ilium.",
+            "sacrum.e-head of the femur."
+        ],
+        "a": 2,
+        "e": "The ilium forms the superior part of the acetabulum.",
+        "t": "MCQ"
+    },
+    {
+        "q": ". Of the following, which is the principal invertor of the foot?",
+        "o": [
+            "peroneus longus",
+            "tibialis anterior",
+            "popliteus",
+            "soleus",
+            "gastrocnemius"
+        ],
+        "a": 1,
+        "e": "Tibialis anterior is the main invertor of the foot.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The greater sciatic notch is formed into a foramen by which of the following ligaments?",
+        "o": [
+            "interosseous sacroiliac",
+            "sacrospinous",
+            "dorsal sacroiliac",
+            "uterosacral",
+            "arcuate"
+        ],
+        "a": 1,
+        "e": "The sacrospinous ligament converts the notch into a foramen.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The abductor digiti minimi muscle is located in which layer of the sole of the foot?",
+        "o": [
+            "first",
+            "second",
+            "third",
+            "fourth",
+            "fifth"
+        ],
+        "a": 0,
+        "e": "It lies in the first plantar layer.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The most powerful extensor of the thigh is the:",
+        "o": [
+            "gluteus maximus",
+            "psoas major",
+            "iliacus",
+            "obturator externus",
+            "piriformis"
+        ],
+        "a": 0,
+        "e": "It is the strongest extensor of the hip.",
+        "t": "MCQ"
+    },
+    {
+        "q": "If a patient cannot stand on his heal, which nerve is not functioning?A. tibial nerve",
+        "o": [
+            "femoral nerve",
+            "medial plantar nerve",
+            "peroneal nerve",
+            "obturator nerve"
+        ],
+        "a": 3,
+        "e": "Heel standing requires dorsiflexion by muscles supplied by the deep peroneal nerve.",
+        "t": "MCQ"
+    },
+    {
+        "q": ". Following a car accident and some healing time, a patient is not able to rise from a sitting position. This could be due to a lesion of which of the following nerves?",
+        "o": [
+            "femoral",
+            "obturator",
+            "nerve to iliopsoas",
+            "superior gluteal",
+            "inferior gluteal"
+        ],
+        "a": 4,
+        "e": "The gluteus maximus is supplied by the inferior gluteal nerve.",
+        "t": "MCQ"
+    },
+    {
+        "q": ". When you stand on one foot, the free limb has a tendency to drop. Which of the following prevents this from happening?",
+        "o": [
+            "biceps femoris",
+            "gluteus maximus",
+            "piriformis",
+            "gluteus medius",
+            "iliacus"
+        ],
+        "a": 3,
+        "e": "It stabilizes the pelvis during single-leg stance.",
+        "t": "MCQ"
+    },
+    {
+        "q": "As the sciatic nerve passes vertically from the gluteal region into the thigh, it runs midway between the ischial tuberosity and the:",
+        "o": [
+            "iliac crest",
+            "symphysis pubis",
+            "greater trochanter",
+            "ischial ramus",
+            "E-lesser trochanter"
+        ],
+        "a": 2,
+        "e": "The sciatic nerve passes between these landmarks.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which muscle is NOT a flexor of the thigh?",
+        "o": [
+            "pectineus",
+            "rectus femorisC. iliopsoas",
+            "sartorius",
+            "adductor magnum"
+        ],
+        "a": 0,
+        "e": "Adductor magnus mainly adducts and extends the thigh.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following muscles is NOT a lateral rotator of the thigh?",
+        "o": [
+            "gemellus",
+            "tensor fasciae latae",
+            "obturator externus",
+            "obturator internus",
+            "piriformis"
+        ],
+        "a": 1,
+        "e": "Tensor fasciae latae acts as a medial rotator and flexor.",
+        "t": "MCQ"
+    },
+    {
+        "q": "When walking, the action of the iliopsoas muscle results in what motion at hip joint?",
+        "o": [
+            "Abduction",
+            "Adduction",
+            "Extension",
+            "Flexion",
+            "Medial rotation"
+        ],
+        "a": 3,
+        "e": "The iliopsoas muscle is the main flexor of the thigh at the hip joint during walking.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Articularis genu is formed from the deep fibers of which of the following muscles?",
+        "o": [
+            "Vastus intermedius",
+            "Vastus lateralis",
+            "Rectus femoris",
+            "Tensor fasciae latae"
+        ],
+        "a": 0,
+        "e": "Articularis genu is formed from the deep fibers of vastus intermedius.",
+        "t": "MCQ"
+    },
+    {
+        "q": "A patient has paralysis of the quadriceps femoris muscle. Which of the following movements will be affected in this patient?",
+        "o": [
+            "Adduction of the thigh",
+            "Flexion of the leg",
+            "Flexion of the thigh",
+            "Extension of the leg",
+            "Abduction of the thigh"
+        ],
+        "a": 3,
+        "e": "Quadriceps femoris is the main extensor muscle of the knee joint.",
+        "t": "MCQ"
+    },
+    {
+        "q": "All the following statements about sartorius muscle are correct EXCEPT:",
+        "o": [
+            "It flexes the leg at the knee joint",
+            "It flexes the thigh at the hip joint",
+            "It laterally rotates the thigh at the hip joint",
+            "It adducts the thigh at the hip joint",
+            "It is attached to the anterior superior iliac spine"
+        ],
+        "a": 3,
+        "e": "Sartorius abducts and laterally rotates the thigh; it does not adduct it.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which part of the quadriceps muscle acting on both hip and knee joints? a. Vastus medialis",
+        "o": [
+            "Vastus lateralis",
+            "Rectus femoris",
+            "Vastus intermedius"
+        ],
+        "a": 2,
+        "e": "Rectus femoris crosses both hip and knee joints, so it acts on both.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Concerning the femoral nerve, all are true EXCEPT:",
+        "o": [
+            "Arises from the lumbar plexus",
+            "Saphenous nerve is its longest branch",
+            "Gives articular branches to both hip and knee joints",
+            "Arises from ventral divisions of L. 2, 3, 4",
+            "Supplies the 4 heads of quadriceps femoris muscle"
+        ],
+        "a": 3,
+        "e": "Femoral nerve arises from the dorsal divisions of L2, L3, and L4.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The following muscles are supplied by the femoral nerve EXCEPT:",
+        "o": [
+            "Vastus lateralis",
+            "Adductor longus",
+            "Articularis genu",
+            "Vastus medialis",
+            "Pectineus"
+        ],
+        "a": 1,
+        "e": "Adductor longus is supplied mainly by the obturator nerve.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The root value of the femoral nerve is:",
+        "o": [
+            "L. 2, 3",
+            "L. 4, 5, S. 1, 2, 3",
+            "L. 2, 3, and 4",
+            "L. 1 and 2",
+            "L. 5 and S. 1, 2, 3"
+        ],
+        "a": 2,
+        "e": "The femoral nerve originates from L2–L4 roots.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The following are branches of the femoral artery EXCEPT:",
+        "o": [
+            "Deep circumflex iliac artery",
+            "Profunda femoris artery",
+            "Superficial external pudendal artery",
+            "Deep external pudendal artery",
+            "Superficial circumflex iliac artery"
+        ],
+        "a": 0,
+        "e": "Deep circumflex iliac artery usually arises from the external iliac artery.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Regarding the profunda femoris artery, all are correct EXCEPT:",
+        "o": [
+            "It represents the main arterial blood supply to the thigh",
+            "It arises from the posterolateral aspect of the femoral artery",
+            "It arises 2.5 inches below the inguinal ligament",
+            "It gives 6 branches"
+        ],
+        "a": 2,
+        "e": "Profunda femoris usually arises about 1.5 inches below the inguinal ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Regarding the contents of the femoral triangle, all are correct EXCEPT:",
+        "o": [
+            "Femoral vessels",
+            "Femoral branch of genitofemoral nerve",
+            "Iliohypogastric nerve",
+            "Femoral nerve"
+        ],
+        "a": 2,
+        "e": "Iliohypogastric nerve is not a content of the femoral triangle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The femoral triangle is bounded by the following:",
+        "o": [
+            "Inguinal ligament, adductor longus and sartorius",
+            "Inguinal ligament, rectus femoris and sartorius",
+            "Inguinal ligament, pectineus and sartorius",
+            "Inguinal ligament, adductor longus and gracilis"
+        ],
+        "a": 0,
+        "e": "These structures form the boundaries of the femoral triangle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The following muscles lie in the floor of the femoral triangle EXCEPT:",
+        "o": [
+            "Iliacus",
+            "Adductor longus",
+            "Rectus femoris",
+            "Psoas major",
+            "Pectineus"
+        ],
+        "a": 2,
+        "e": "Rectus femoris does not form part of the floor of the femoral triangle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The following are contents of the femoral triangle EXCEPT:",
+        "o": [
+            "Femoral artery",
+            "Femoral nerve",
+            "Femoral sheath",
+            "Ilioinguinal nerve",
+            "Deep inguinal lymph nodes f. Femoral vein"
+        ],
+        "a": 3,
+        "e": "Ilioinguinal nerve passes through the inguinal canal, not the femoral triangle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The boundaries and floor of the femoral triangle include the following muscles EXCEPT:",
+        "o": [
+            "Adductor longus",
+            "Sartorius",
+            "Pectineus",
+            "Adductor magnus",
+            "Iliopsoas"
+        ],
+        "a": 3,
+        "e": "Adductor magnus is not part of the boundaries or floor of the femoral triangle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The following structures pass through the saphenous opening EXCEPT:",
+        "o": [
+            "Superficial external pudendal artery",
+            "Great saphenous vein",
+            "Lymphatics between superficial and deep inguinal lymph nodes",
+            "Ilioinguinal nerve",
+            "Superficial epigastric artery"
+        ],
+        "a": 3,
+        "e": "Ilioinguinal nerve does not pass through the saphenous opening.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Concerning the saphenous opening, all are true EXCEPT:",
+        "o": [
+            "It lies in the fascia lata",
+            "Femoral hernia may project through it",
+            "Its falciform margin lies on its lateral part",
+            "It is covered by cribriform fascia",
+            "It lies below the level of the adductor tubercle"
+        ],
+        "a": 4,
+        "e": "The saphenous opening lies much higher than the adductor tubercle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The femoral sheath is formed by the following layer(s) of fascia:",
+        "o": [
+            "Pectineus fascia",
+            "Fascia iliaca and the fascia transversalis",
+            "Fascia lata and the membranous layer of the superficial fascia",
+            "Psoas fascia and the fatly layer of the superficial fascia",
+            "Processus vaginalis"
+        ],
+        "a": 1,
+        "e": "Femoral sheath is formed from fascia transversalis anteriorly and fascia iliaca posteriorly.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The following structures are present in the femoral sheath EXCEPT:",
+        "o": [
+            "Femoral artery",
+            "Femoral vein",
+            "Femoral nerve",
+            "Femoral canal",
+            "Femoral branch of the genitofemoral nerve"
+        ],
+        "a": 2,
+        "e": "Femoral nerve lies outside the femoral sheath.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The following are true regarding the femoral canal EXCEPT:",
+        "o": [
+            "It is the medial compartment of femoral sheath",
+            "It contains the lymph node of Cloquet",
+            "It is closed by the femoral septum",
+            "Its upper opening (femoral ring) is bounded anteriorly by the superior pubic ramus"
+        ],
+        "a": 3,
+        "e": "The  anterior boundary of the femoral ring is the inguinal ligament.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The articular part of a rib tubercle articulates with which of the following structures?",
+        "o": [
+            "body of the vertebra",
+            "costal cartilage",
+            "adjacent rib",
+            "sternum",
+            "transverse process"
+        ],
+        "a": 4,
+        "e": "The rib tubercle articulates with the transverse process of the vertebra.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Where is the groove for the subclavian artery located?",
+        "o": [
+            "posterior to the scalene tubercle",
+            "on the clavicle",
+            "on the manubrium",
+            "at the sternal angle",
+            "at the angle of the 1st rib"
+        ],
+        "a": 0,
+        "e": "The groove for the subclavian artery lies posterior to the scalene tubercle on the first rib.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The retromammary space is located between which of the following structures?",
+        "o": [
+            "skin and the areola",
+            "pectoralis major and minor",
+            "breast and deep pectoral fascia",
+            "suspensory ligament and the skin",
+            "lactiferous sinus and the nipple"
+        ],
+        "a": 2,
+        "e": "Retromammary space lies between the breast and deep pectoral fascia.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following statements correctly apply to the internal thoracic artery?",
+        "o": [
+            "It runs posterior to the transversus thoracis muscle.",
+            "It ends in the 6th intercostal space.",
+            "It divides into the superior and inferior epigastric arteries.",
+            "It runs posterior to the superior six ribs.",
+            "It gives rise to the posterior intercostal arteries."
+        ],
+        "a": 1,
+        "e": "Internal thoracic artery terminates in the 6th intercostal space.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following statements concerning the sternal angle is correct?",
+        "o": [
+            "It lies at the level of the intervertebral disk between T4/T5.",
+            "It is flanked by the costal cartilage of the 3rd pair of costal cartilages.",
+            "It is crossed by the superior epigastric artery.",
+            "It lies in the epigastric fossa.",
+            "It is located 3 mm superior to the jugular notch."
+        ],
+        "a": 0,
+        "e": "The sternal angle corresponds to the T4–T5 intervertebral disc level.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The pleural cavity contains which of the following?",
+        "o": [
+            "lungs",
+            "bronchi",
+            "serous pleural fluid",
+            "lymph nodes",
+            "pulmonary arteries and veins"
+        ],
+        "a": 2,
+        "e": "Pleural cavity contains a thin layer of serous fluid.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The parietal pleura consists of all of the following parts EXCEPT",
+        "o": [
+            "costal",
+            "pericardial",
+            "mediastinal",
+            "diaphragmatic",
+            "cervical"
+        ],
+        "a": 1,
+        "e": "Parietal pleura has costal, mediastinal, diaphragmatic, and cervical parts only.",
+        "t": "MCQ"
+    },
+    {
+        "q": "All of the following statements correctly apply to the left main bronchus EXCEPT",
+        "o": [
+            "It is wider, shorter, and runs more vertically than the right main bronchus.",
+            "It passes anterior to the esophagus.",
+            "It passes anterior to the thoracic aorta.",
+            "It contains c-shaped rings of hyaline cartilage.",
+            "It arises at the level of the sternal angle."
+        ],
+        "a": 0,
+        "e": "These  features belong to the right main bronchus, not the left.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following structures is located in the middle mediastinum?",
+        "o": [
+            "thoracic duct",
+            "lungs",
+            "esophagus",
+            "heart",
+            "azygos vein"
+        ],
+        "a": 3,
+        "e": "The heart is located in the middle mediastinum.",
+        "t": "MCQ"
+    },
+    {
+        "q": "All of the following statements correctly apply to the right atrium EXCEPT",
+        "o": [
+            "It receives blood from the superior and inferior vena cava and coronary sinus.",
+            "It forms the right side of the heart.",
+            "It contains the crista terminalis.",
+            "It contains the limbus fossae ovalis.",
+            "It contains trabeculae carneae."
+        ],
+        "a": 4,
+        "e": "Trabeculae carneae are found in ventricles, not atria.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The interventricular septum contains which of the following structures?",
+        "o": [
+            "anterior papillary muscle",
+            "fossa ovalis",
+            "sinus venarumD. sinoatrial node",
+            "conus arteriosus"
+        ],
+        "a": 0,
+        "e": "Conus arteriosus is part of the right ventricular outflow tract.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following is the basic structural unit for gas exchange in the lung?",
+        "o": [
+            "terminal bronchioles",
+            "respiratory bronchioles",
+            "alveolar ducts",
+            "alveoli",
+            "bronchi"
+        ],
+        "a": 3,
+        "e": "Alveoli are the basic units of gas exchange in the lungs.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following structures carry highly oxygenated blood from the lungs to the heart?",
+        "o": [
+            "pulmonary arteries",
+            "pulmonary veins",
+            "coronary arteries",
+            "cardiac veins",
+            "ascending aorta"
+        ],
+        "a": 1,
+        "e": "Pulmonary veins carry oxygenated blood from lungs to heart.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following structures is located in the posterior mediastinum?",
+        "o": [
+            "lungs",
+            "heart",
+            "azygos vein",
+            "superior vena cava",
+            "right coronary artery"
+        ],
+        "a": 2,
+        "e": "Azygos vein is located in the posterior mediastinum.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following statements correctly applies to the tricuspid valve?",
+        "o": [
+            "It guards the left atrioventricular orifice.",
+            "It guards the conus arteriosus.",
+            "It is also known as the mitral valve.",
+            "Chordae tendineae attach to the free edges of the cusps.",
+            "The apex of each cusp attaches to the fibrous ring around the orifice."
+        ],
+        "a": 3,
+        "e": "Chordae tendineae connect valve cusps to papillary muscles.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following structures is located in the left ventricle?",
+        "o": [
+            "fossa ovalis",
+            "crista terminalis",
+            "opening of the coronary sinus",
+            "conus arteriosusE. posterior papillary muscle"
+        ],
+        "a": 0,
+        "e": "Posterior papillary muscle is found in the left ventricle.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following is NOT part of the chest?",
+        "o": [
+            "12 pairs of ribs",
+            "sternum",
+            "costal cartilages",
+            "12 thoracic vertebrae",
+            "clavicle"
+        ],
+        "a": 4,
+        "e": "Clavicle belongs to the pectoral girdle, not the thoracic cage.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following is a saddle-type synovial joint?",
+        "o": [
+            "sternoclavicular joint",
+            "manubriosternal joint",
+            "interchondral joint",
+            "intervertebral joint",
+            "costochondral joint"
+        ],
+        "a": 0,
+        "e": "Sternoclavicular joint is a saddle-type synovial joint.",
+        "t": "MCQ"
+    },
+    {
+        "q": "The mammary glands are modified versions of which type of gland?",
+        "o": [
+            "sebaceous gland",
+            "lymph gland",
+            "sweat gland",
+            "tonsillar tissue",
+            "endocrine gland"
+        ],
+        "a": 2,
+        "e": "Mammary glands are modified sweat glands.",
+        "t": "MCQ"
+    },
+    {
+        "q": "Which of the following are innervated by dorsal rami?",
+        "o": [
+            "levatores costarum",
+            "external intercostals",
+            "internal intercostals",
+            "subcostals",
+            "serratus posterior inferior"
+        ],
+        "a": 0,
+        "e": "Levatores costarum muscles are supplied by dorsal rami of spinal nerves.                                                                             Good luck",
+        "t": "MCQ"
+    }
+]
